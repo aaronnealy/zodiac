@@ -1,0 +1,123 @@
+[
+    {
+        "id": 1,
+        "symbol": "The Ram",
+        "img": "https://cdn.shopify.com/s/files/1/1325/0879/articles/headers-zodiac-sign-astrology-personality-positives-negatives-cheat-sheet-aries_1024x1024.png?v=1517850072",
+        "sign":"https://cdn1.iconfinder.com/data/icons/symbols-symbols-essential-1-vol-2/48/v-04-512.png",
+        "name": "Aries",
+        "date": "March 21 - April 19",
+        "element": "Fire",
+        "ruling planet": "Mars"
+    },
+    {
+        "id": 2,
+        "symbol":"The Bull",
+        "img": "https://cdn.shopify.com/s/files/1/1325/0879/articles/headers-zodiac-sign-astrology-personality-positives-negatives-cheat-sheet-taurus_1024x1024.png?v=1517849684",
+        "sign": "https://cdn1.iconfinder.com/data/icons/symbols-symbols-essential-1-vol-2/48/v-05-512.png",
+        "name": "Taurus",
+        "date": "April 20 - May 20",
+        "element": "Earth",
+        "ruling planet": "Venus"
+    },
+    {
+        "id": 3,
+        "symbol": "The Twins",
+        "img": "https://cdn.shopify.com/s/files/1/1325/0879/articles/headers-zodiac-sign-astrology-personality-positives-negatives-cheat-sheet-gemini_1024x1024.png?v=1517844742",
+        "sign": "https://cdn1.iconfinder.com/data/icons/symbols-symbols-essential-1-vol-2/48/v-06-512.png",
+        "name":"Gemini",
+        "date": "May 21 - June 20",
+        "element": "Air",
+        "ruling planet": "Mercury"
+    },
+    {
+        "id": 4,
+        "symbol": "The Crab",
+        "img": "https://cdn.shopify.com/s/files/1/1325/0879/articles/headers-zodiac-sign-astrology-personality-positives-negatives-cheat-sheet-cancer_1024x1024.png?v=1517625158",
+        "sign": "https://cdn1.iconfinder.com/data/icons/symbols-symbols-essential-1-vol-2/48/v-07-512.png",
+        "name": "Cancer",
+        "date": "June 21 - July 22",
+        "element": "Water",
+        "ruling planet": "Moon"
+    },
+    {
+        "id": 5,
+        "symbol": "The Lion",
+        "img": "https://cdn.shopify.com/s/files/1/1325/0879/articles/headers-zodiac-sign-astrology-personality-positives-negatives-cheat-sheet-leo_1024x1024.png?v=1517617612",
+        "sign": "https://cdn1.iconfinder.com/data/icons/symbols-symbols-essential-1-vol-2/48/v-08-512.png",
+        "name": "Leo",
+        "date": "July 23 - August 22",
+        "element": "Fire",
+        "ruling planet": "Sun"
+    },
+    {
+        "id": 6,
+        "symbol":"The Virgin",
+        "img": "https://cdn.shopify.com/s/files/1/1325/0879/articles/headers-zodiac-sign-astrology-personality-positives-negatives-cheat-sheet-virgo_1024x1024.png?v=1517590104",
+        "sign": "https://cdn1.iconfinder.com/data/icons/symbols-symbols-essential-1-vol-2/48/v-09-512.png",
+        "name": "Virgo",
+        "date": "August 23 - September 22",
+        "element": "Earth",
+        "ruling planet": "Mercury"
+    },
+    {
+        "id": 7,
+        "symbol": "The Scales",
+        "img": "https://cdn.shopify.com/s/files/1/1325/0879/articles/headers-zodiac-sign-astrology-personality-positives-negatives-cheat-sheet-libra_1024x1024.png?v=1517444894",
+        "sign": "https://cdn1.iconfinder.com/data/icons/symbols-symbols-essential-1-vol-2/48/v-10-512.png",
+        "name": "Libra",
+        "date": "September 23 - October 22",
+        "element": "Air",
+        "ruling planet": "Venus"
+    },
+    {
+        "id": 8,
+        "symbol": "The Scorpion",
+        "img": "https://cdn.shopify.com/s/files/1/1325/0879/articles/headers-zodiac-sign-astrology-personality-positives-negatives-cheat-sheet-scorpio_1024x1024.png?v=1517441497",
+        "sign": "https://cdn1.iconfinder.com/data/icons/symbols-symbols-essential-1-vol-2/48/v-11-512.png",
+        "name": "Scorpio",
+        "date": "October 23 - November 21",
+        "element": "Water",
+        "ruling planet": "Pluto and Mars"
+    },
+    {
+        "id": 9,
+        "symbol": "The Centaur",
+        "img": "https://cdn.shopify.com/s/files/1/1325/0879/articles/headers-zodiac-sign-astrology-personality-positives-negatives-cheat-sheet-sagittarius_1024x1024.png?v=1517414803",
+        "sign": "https://cdn1.iconfinder.com/data/icons/symbols-symbols-essential-1-vol-2/48/v-12-512.png",
+        "name": "Sagittarius",
+        "date": "November 22 - December 21",
+        "element": "Fire",
+        "ruling planet": "Jupiter"
+    },
+    {
+        "id": 10,
+        "symbol": "The Goat",
+        "img": "https://cdn.shopify.com/s/files/1/1325/0879/articles/headers-zodiac-sign-astrology-personality-positives-negatives-cheat-sheet-capricorn_1024x1024.png?v=1517361013",
+        "sign":"https://cdn1.iconfinder.com/data/icons/symbols-symbols-essential-1-vol-2/48/v-13-512.png",
+        "name": "Capicorn",
+        "date": "December 22 - January 19",
+        "element": "Earth",
+        "ruling planet": "Saturn"
+    },
+    {
+        "id": 11,
+        "symbol": "The Water Bearer",
+        "img": "https://labyrinthos.co/blogs/astrology-horoscope-zodiac-signs/the-zodiac-sign-aquarius-symbol-personality-strengths-weaknesses",
+        "sign": "https://cdn1.iconfinder.com/data/icons/symbols-symbols-essential-1-vol-2/48/v-14-512.png",
+        "name": "Aquarius",
+        "date": "January 20 - February 18",
+        "element": "Air",
+        "ruling planet": "Uranus"
+    },
+    {
+        "id": 12,
+        "symbol": "The Fish",
+        "img": "https://labyrinthos.co/blogs/astrology-horoscope-zodiac-signs/the-zodiac-sign-pisces-symbol-personality-strengths-weaknesses",
+        "sign": "https://cdn1.iconfinder.com/data/icons/symbols-symbols-essential-1-vol-2/48/v-15-512.png",
+        "name": "Pisces",
+        "date": "February 19 - March 20",
+        "element": "Water",
+        "ruling planet": "Neptune"
+    }
+    
+]
